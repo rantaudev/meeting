@@ -6,11 +6,11 @@
 
 ## Date
 
-13 juni 2020 pukul 20.00 - 22.00
+13 Juni 2020 Pukul 20.00 - 22.00
 
 ## Participant
 
-Sekitar 15an orang member yang tergabung dalam grup telegram rantaudev
+Sekitar 15 orang member yang tergabung dalam grup telegram rantaudev
 
 ## Highlights
 
@@ -20,9 +20,9 @@ Sekitar 15an orang member yang tergabung dalam grup telegram rantaudev
 
 - Domain website berubah dari rantaudev.pro ke rantau.dev
 
-- Website utama kita rantau.dev nantinya akan berisi seputar kegiatan apa saya yang dilakukan rantaudev (sepert online meeting dengan pembahasa teknikal) dan langkah-langkah atau panduan umum yang sering ditemui khususnya bagi pemula sebagai langkah awal di dunia open source.
+- Website utama kita rantau.dev nantinya akan berisi seputar kegiatan apa saja yang dilakukan rantaudev (seperti online meeting dengan pembahasan teknikal) dan langkah-langkah atau panduan umum yang sering ditemui khususnya bagi pemula sebagai langkah awal memasuki dunia open source.
 
-- Kita jadikan rantaudev ini safe space (tempat yang nyaman) bagi pemula untuk bertanya apapun seputar IT. Kita disini berusaha sebaik mungkin dan senyaman mungkin menjawab permasalah teman-teman rantaudev.dad
+- Kita jadikan rantaudev ini safe space (tempat yang nyaman) bagi pemula untuk bertanya apapun seputar IT. Kita disini berusaha sebaik mungkin dan senyaman mungkin menjawab permasalahan teman-teman rantaudev.
 
 ## Target Terdekat
 
