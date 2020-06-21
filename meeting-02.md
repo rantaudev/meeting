@@ -20,6 +20,8 @@ Sekitar 7 orang member yang tergabung dalam grup telegram rantaudev
 
 - Sharing git hosting terbesar (kelebihan dan kekurangan) github dan gitlab
 
+- Polling di grup Telegram tentang penguasaan dasar-dasar git dari member rantaudev
+
 - Diskusi perbedaan proses Berkontribusi di project kantor dan di project Open Source 
 
 ## Target Terdekat
